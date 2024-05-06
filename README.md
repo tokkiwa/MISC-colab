@@ -1,4 +1,4 @@
-- [Open with Colab](https://colab.research.google.com/github/tokkiwa/MISC-colab/blob/master/misc_on_colab(public).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tokkiwa/MISC-colab/blob/master/misc_on_colab(public).ipynb)
 
 
 # MISC-colab
