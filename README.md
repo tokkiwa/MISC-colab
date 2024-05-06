@@ -1,9 +1,12 @@
+- [Open with Colab](https://colab.research.google.com/github/tokkiwa/MISC-colab/blob/master/misc_on_colab(public).ipynb)
+
+
 # MISC-colab
 Unofficial Pytorch Implementation of MISC on Google Colaboratory
 
 # Description 
 This is an implementation of the paper MISC (Li et al. MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model, 2024. https://arxiv.org/abs/2402.16749 ). 
-You can access the notebook [HERE](https://colab.research.google.com/drive/1LvALhLeLnsvJPzloCe1zMP1HzDkawwbg?usp=sharing)
+You can access the notebook via `Open with Colab` button above! 
 
 
 Here is [Official repository](https://github.com/lcysyzxdxc/MISC). 
