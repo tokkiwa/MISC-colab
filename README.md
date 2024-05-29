@@ -2,7 +2,7 @@
 
 
 # MISC-colab
-Unofficial Pytorch Implementation of MISC on Google Colaboratory
+Unofficial Pytorch Re-Implementation of MISC on Google Colaboratory
 
 # Description 
 This is an implementation of the paper MISC (Li et al. MISC: Ultra-low Bitrate Image Semantic Compression Driven by Large Multimodal Model, 2024. https://arxiv.org/abs/2402.16749 ). 
